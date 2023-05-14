@@ -15,6 +15,7 @@ body {
     }
 
     img {
-        align-items: middle;
+        display: block;
+        margin: 0px auto;
     }
     
